@@ -1,0 +1,6 @@
+version: 1
+unique_name: MyTraining
+object_type: catalog
+label: MyTraining
+aggressive_agg_promotion: false
+build_speculative_aggs: true
