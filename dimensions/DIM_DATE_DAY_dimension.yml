@@ -1,0 +1,17 @@
+unique_name: DIM_DATE_DAY_dimension
+object_type: dimension
+label: DIM_DATE_DAY_dimension
+hierarchies: []
+level_attributes: []
+relationships:
+  - unique_name: ''
+    from:
+      dataset: ''
+      hierarchy: ''
+      join_columns: []
+      level: ''
+    to:
+      dimension: DIM_DATE_DAY_dimension
+      level: ''
+    type: embedded
+type: standard
