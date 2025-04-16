@@ -1,8 +1,0 @@
-unique_name: m_FACTINTERNETSALES_salesamount_sum
-object_type: metric
-label: Sum of Sales
-description: Sale Amount Sum
-calculation_method: sum
-column: salesamount
-dataset: FACTINTERNETSALES
-format: general number
