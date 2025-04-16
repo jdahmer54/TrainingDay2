@@ -1,7 +1,0 @@
-unique_name: MyTrainingModel
-object_type: model
-label: MyTrainingModel
-metrics:
-  - unique_name: m_FACTINTERNETSALES_salesamount_sum
-    folder: Sale Measures
-relationships: []
